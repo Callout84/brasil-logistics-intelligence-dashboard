@@ -105,17 +105,16 @@ Construção de insights executivos sobre:
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
 - Chart.js
-- Design Responsivo
-- Storytelling Analítico
-- Data Visualization
-
----
+- GitHub Pages
+- GitHub
+- Claude AI
+- ChatGPT
 
 # 📈 Competências Demonstradas
 
@@ -157,17 +156,17 @@ Esse comportamento aumenta significativamente o risco de gargalos operacionais e
 
 # 🤖 Uso de Inteligência Artificial
 
-Sou estudante de Data Science e utilizo Inteligência Artificial como ferramenta de apoio ao aprendizado e desenvolvimento de projetos.
+Este projeto foi desenvolvido como parte dos meus estudos em Data Science e Analytics.
 
-Neste projeto utilizei IA para:
+Utilizei Claude AI e ChatGPT para apoiar:
 
-- Explorar hipóteses de negócio
-- Aprimorar visualizações
-- Refinar o storytelling analítico
-- Estruturar dashboards executivos
-- Acelerar prototipação de interfaces
+- Estruturação do dashboard
+- Exploração de indicadores de negócio
+- Storytelling analítico
+- Refinamento visual
+- Validação de métricas
 
-Todo o conteúdo foi revisado, estudado e compreendido durante o desenvolvimento.
+Todo o processo foi revisado, estudado e adaptado manualmente para fins de aprendizado e construção de portfólio.
 
 A IA foi utilizada como suporte ao processo de aprendizagem e não como substituição do entendimento técnico.
 

@@ -4,7 +4,7 @@
 
 ## 🌐 Dashboard Online
 
-https://SEU-LINK-GITHUB-PAGES
+[https://SEU-LINK-GITHUB-PAGES](https://callout84.github.io/brasil-logistics-intelligence-dashboard/)
 
 ---
 
